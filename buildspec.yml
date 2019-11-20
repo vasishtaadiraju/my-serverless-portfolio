@@ -3,8 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - Nothing still yet to be developed
-
+      - echo Nothing still in development
 artifacts:
   files:
     - index.html
