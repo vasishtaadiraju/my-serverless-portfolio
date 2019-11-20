@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - Nothing still, yet to be developed.
+      - Nothing still yet to be developed
 
 artifacts:
   files:
