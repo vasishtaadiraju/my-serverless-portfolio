@@ -1,0 +1,14 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - Nothing still, yet to be developed.
+
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Vasishta_Adiraju.pdf
+    - styles/main.css
+    - images/*
