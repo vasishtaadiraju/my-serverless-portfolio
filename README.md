@@ -7,3 +7,4 @@ This is my Professional portfolio developed using AWS, React JS in a serverless 
 Chocolatey
 Git & Github
 SSH
+AWS S3, IAM, CodeBuild, Lambda
