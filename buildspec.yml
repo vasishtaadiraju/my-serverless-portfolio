@@ -3,7 +3,8 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo Nothing still in development
+      - npm install
+      - npm run webpack
 artifacts:
   files:
     - index.html
@@ -11,3 +12,4 @@ artifacts:
     - Vasishta_Adiraju.pdf
     - styles/main.css
     - images/*
+    - dist/bundle.js
