@@ -4,7 +4,7 @@ phases:
   build:
     commands:
       - npm install
-      - npm run webpack
+      - npm run webpack --mode production
 artifacts:
   files:
     - index.html
@@ -12,4 +12,5 @@ artifacts:
     - Vasishta_Adiraju.pdf
     - styles/main.css
     - images/*
+    - images/profile.jpg
     - dist/bundle.js
