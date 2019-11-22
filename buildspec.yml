@@ -4,13 +4,15 @@ phases:
   build:
     commands:
       - npm install
-      - npm run webpack --mode production
+      - npm run webpack
 artifacts:
   files:
     - index.html
     - favicon.ico
     - Vasishta_Adiraju.pdf
     - styles/main.css
-    - images/*
+    - images/example1.png
+    - images/example2.png
+    - images/example3.png
     - images/profile.jpg
     - dist/bundle.js
